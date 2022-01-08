@@ -1,0 +1,117 @@
+body{
+    margin: 0;
+}
+#section1{
+    font-family: 'EB Garamond', serif;
+font-family: 'Libre Baskerville', serif;
+font-family: 'Poppins', sans-serif;
+height: 500px;
+display: flex;
+margin-left: 80px;
+}
+.half_width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+#section1 h1{
+    font-size: 50px;
+}
+#section1 h1 span{
+    color: blue
+}
+.div1{
+    border-left:3px solid orangered;
+    padding-left: 10px;
+    line-height: 30px;
+}
+.explore_now{
+    text-decoration: none;
+    padding: 10px 30px;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+}
+
+.section2{
+    font-family: 'EB Garamond', serif;
+font-family: 'Libre Baskerville', serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+height: 500px;
+margin-left: 80px;
+}
+.section2 h1{
+    font-size: 50px;
+    text-align: center;
+}
+.section2 h1 span{
+    color: orangered;
+}
+.section2_div_shadow_box{
+        border-radius: 15px;
+        height: 330px;
+        width: 330px;
+        float: left;
+        padding: 10px;
+        margin-left: 5%;
+       
+}
+.section2_div_shadow_box img{
+    width: 47%;
+}
+.section2_div1_color{
+  background-color: rgba(199, 230, 230, 0.76);
+}
+.section2_div2_color{
+    background-color: rgb(238, 224, 224);
+}
+.section2_div3_color{
+    background-color: bisque;
+}
+.section3{
+    font-family: 'EB Garamond', serif;
+font-family: 'Libre Baskerville', serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+    height: 500px;
+    display: flex;
+    margin-left: 120px;
+}
+
+.sec3_div{
+    float: right;
+    margin-left: 1px;
+    
+}
+.sectionfooter{
+    font-family: 'EB Garamond', serif;
+font-family: 'Libre Baskerville', serif;
+font-family: 'Lobster', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+}
+footer{
+ 
+    background-color: black;
+    height: 150px;
+    text-align: center;
+}
+footer h3{
+    padding-top: 15px;
+    color: white;
+    font-style: italic;
+
+}
+footer span{
+    color: orangered;
+}
+footer p small{
+    color: white;
+}
+.first_bg{
+    background-image: url("images/shapes/shape-1.png");
+    background-repeat: no-repeat; 
+    background-position: left;
+}
